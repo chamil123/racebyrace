@@ -33,6 +33,7 @@ public class AddResults extends javax.swing.JPanel {
     private int counter;
     private int counterPora;
     private int maxValue;
+    
 
     /**
      * Creates new form AddResults
